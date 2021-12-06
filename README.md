@@ -30,11 +30,11 @@ The manufacturing data does not meet design specifications for all manufacuring 
 
 ### Total Summary
 
-![Deliverable_2_lot_summary.png](https://github.com/alexhuynh0530/MechaCar_Statistical_Analysis/blob/main/Screenshots/Deliverable_2_lot_summary.png)
+![Deliverable_2_total_summary.png](https://github.com/alexhuynh0530/MechaCar_Statistical_Analysis/blob/main/Screenshots/Deliverable_2_total_summary.png)
 
 ### Lot Summary
 
-![Deliverable_2_total_summary.png](https://github.com/alexhuynh0530/MechaCar_Statistical_Analysis/blob/main/Screenshots/Deliverable_2_total_summary.png)
+![Deliverable_2_lot_summary.png](https://github.com/alexhuynh0530/MechaCar_Statistical_Analysis/blob/main/Screenshots/Deliverable_2_lot_summary.png)
 
 
 
