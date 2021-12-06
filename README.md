@@ -24,9 +24,9 @@ The manufacturing data does not meet design specifications for all manufacuring 
 
 Lot1 has a p-value of 1 so the observed effect almost exactly equals the null hypothesis value. The p-value for Lot2 is 0.6072 (> 0.05)so the data here is not statistically significant and indicates strong evidence for the null hypothesis. Lot3 has a p-value of 0.04168 (< 0.05) which rejects the null hypothesis that there's no difference between the means and conclude that a significant difference does exist.
 
-### Lot 1
+### Lot 1, 2, and 3
 
-
+![Deliverable_3_t_test_per_lot.png](https://github.com/alexhuynh0530/MechaCar_Statistical_Analysis/blob/main/Screenshots/Deliverable_3_t_test_per_lot.png)
 
 ### Lot 2
 
