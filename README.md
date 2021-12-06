@@ -14,25 +14,43 @@ No, the slope of the linear model is not zero because the p-value of our linear 
 
 The R-squared value represents how well the regression model approximates real-world data points and our linear regression analysis has an R-squared value of 0.7149, therefore, future data points have 71.49% of fitting our linear model.
 
+### Linear Regression
+![Deliverable_1_lin_reg.png](https://github.com/alexhuynh0530/MechaCar_Statistical_Analysis/blob/main/Screenshots/Deliverable_1_lin_reg.png)
+
+### Linear Regressino summary
+![Deliverable_1_lin_reg_summary.png](https://github.com/alexhuynh0530/MechaCar_Statistical_Analysis/blob/main/Screenshots/Deliverable_1_lin_reg_summary.png)
+
+
+
 ## Summary Statistics on Suspension Coils
 
 - The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
 
 The manufacturing data does not meet design specifications for all manufacuring lots in total because of the high variance and standard deviation. When looking at each lot individually Lot 1 meets design specifications with variance and standard deviation below 1.
 
+### Total Summary
+
+![Deliverable_2_lot_summary.png](https://github.com/alexhuynh0530/MechaCar_Statistical_Analysis/blob/main/Screenshots/Deliverable_2_lot_summary.png)
+
+### Lot Summary
+
+![Deliverable_2_total_summary.png](https://github.com/alexhuynh0530/MechaCar_Statistical_Analysis/blob/main/Screenshots/Deliverable_2_total_summary.png)
+
+
+
+
 ## T-Tests on Suspension Coils
 
 Lot1 has a p-value of 1 so the observed effect almost exactly equals the null hypothesis value. The p-value for Lot2 is 0.6072 (> 0.05)so the data here is not statistically significant and indicates strong evidence for the null hypothesis. Lot3 has a p-value of 0.04168 (< 0.05) which rejects the null hypothesis that there's no difference between the means and conclude that a significant difference does exist.
 
-### Lot 1, 2, and 3
+### T-Test of All Lots
+
+![Deliverable_3_t_test.png](https://github.com/alexhuynh0530/MechaCar_Statistical_Analysis/blob/main/Screenshots/Deliverable_3_t_test.png)
+
+### T-Test of Lot 1, 2, and 3
 
 ![Deliverable_3_t_test_per_lot.png](https://github.com/alexhuynh0530/MechaCar_Statistical_Analysis/blob/main/Screenshots/Deliverable_3_t_test_per_lot.png)
 
-### Lot 2
-
-
-
-### Lot 3
 
 
 
