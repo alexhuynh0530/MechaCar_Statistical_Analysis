@@ -4,7 +4,7 @@
 
 - Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
 
-
+The vehicle weight, spoiler angle and AWD provided a non-random amount of variance because the p-value was less than 0.05 rejecting the null hypothesis. 
 
 - Is the slope of the linear model considered to be zero? Why or why not?
 
@@ -40,15 +40,21 @@ Lot1 has a p-value of 1 so the observed effect almost exactly equals the null hy
 
 Write a short description of a statistical study that can quantify how the MechaCar performs against the competition. In your study design, think critically about what metrics would be of interest to a consumer: for a few examples, cost, city or highway fuel efficiency, horse power, maintenance cost, or safety rating.
 
-In your description, address the following questions:
+Statistical study to quantify how the MechaCar performs against competition:
+We will use horsepower to compare performance
+
 - What metric or metrics are you going to test?
 
+Horsepower, quarter-mile race time, mpg.
 
 - What is the null hypothesis or alternative hypothesis?
 
+MechaCar has the same horsepower and quarter-mile race time as competitor.
 
 - What statistical test would you use to test the hypothesis? And why?
 
+Using two-sample t-test to deterine statistical difference between MechaCar and competitors.
 
 - What data is needed to run the statistical test?
 
+Data of compettior vehicle with all the same metrics being used with the MechaCar data. 
